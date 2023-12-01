@@ -1,0 +1,20 @@
+         =========== User Overview ========== 
+Registered User:         admin 
+Total number of tasks assigned:   2 
+Total number of completed tasks:   1 
+Total number of incomplete tasks:   1 
+Total number of overdue tasks:   1 
+Percentage of all tasks assigned: 66.66666666666666% 
+Percentage of incomplete tasks:   50.0 % 
+Percentage of overdue tasks:   50.0 % 
+ 
+         =========== User Overview ========== 
+Registered User:         batman 
+Total number of tasks assigned:   1 
+Total number of completed tasks:   1 
+Total number of incomplete tasks:   0 
+Total number of overdue tasks:   0 
+Percentage of all tasks assigned: 33.33333333333333% 
+Percentage of incomplete tasks:   0.0 % 
+Percentage of overdue tasks:   0.0 % 
+ 
